@@ -29,7 +29,6 @@
         popwin
         go-gen-test
         go-fill-struct
-        go_layer_fillstruct
         ))
 
 
